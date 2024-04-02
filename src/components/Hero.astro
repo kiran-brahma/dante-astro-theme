@@ -13,7 +13,9 @@ const hero = siteConfig.hero;
             {hero.title && <h1 class="text-3xl leading-tight font-serif font-medium sm:text-5xl sm:leading-tight">{hero.title}</h1>}
             {hero.image?.src && (
                 <figure>
-                    <Image class="mx-auto" width="600" height="400" src={hero.image.src} decoding="async" alt={hero.image.alt || ''} />
+                    <center>
+                        <Image width="600" height="400" src={hero.image.src} decoding="async" alt={hero.image.alt || ''} />
+                    </center>
                     {hero.image.caption && <figcaption class="mt-1.5 text-xs sm:text-sm">{hero.image.caption}</figcaption>}
                 </figure>
             )}
