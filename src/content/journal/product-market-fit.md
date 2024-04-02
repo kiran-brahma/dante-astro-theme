@@ -34,15 +34,15 @@ Following are notes I have jotted after referring to multiple books and articles
 - Myths on Product-Market Fit:
 
   - Product-market fit is a discrete big bang event.
-  - It is clearly obvious when you have the fit.
+  - It is obvious when you have the fit.
   - Once you have the fit, you can't lose it.
   - Once you have the fit, you don't need to worry about competition.
 
-- Getting the right product means finding the fit. It's not about the product launch, but reaching the point when your product is accepted, and customers are willing to pay for it. Don't scale prior to achieving market fit.
+- Getting the right product means finding the fit. It's not about the product launch, but reaching the point when your product is accepted, and customers are willing to pay for it. Don't scale before achieving market fit.
 
   ![Product Market Fit](https://kiranbrahma.vercel.app/images/selection-illustration-QyMD.png)
 
-- Until you are able to find a fit, don't focus on the robustness of the product. Find the fit and then improve upon the product. You need to find a sustainable growth model and moat against competitors.
+- Until you can find a fit, don't focus on the robustness of the product. Find the fit and then improve upon the product. You need to find a sustainable growth model and moat against competitors.
 
 - Start hiring only after achieving the fit. Until then:
 

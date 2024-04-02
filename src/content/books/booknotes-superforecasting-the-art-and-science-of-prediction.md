@@ -23,7 +23,7 @@ Rating: 4.5/5
 
 - Every event has multiple outcomes and it is important to go beyond the simple 0 or 1 outcome we are used to.
 - Gather as much information as possible before arriving at any decision and define a probability score for the event. Make sure to keep clear notes on how you arrived at the value for future improvement.
-- Apply the first principle thinking to new situations, asking yourself simple basic questions before searching for data and arriving at a probability score for an outcome.
+- Apply the first principle of thinking to new situations, asking yourself simple basic questions before searching for data and arriving at a probability score for an outcome.
 - Update your score based on the latest data, applying the logic of [Baye's Theorem ](https://en.wikipedia.org/wiki/Bayes%27_theorem)to arrive at a new score.
 
 ## Long Notes
@@ -46,5 +46,5 @@ Rating: 4.5/5
   - Try to maintain consistency in your figures to ensure clarity in your ideas.
 - Update your estimate incrementally based on new data.
 - Don't become too attached to your initial opinions, but don't be swayed too much by new information either. It is important to keep making small adjustments to your estimates based on the information.
-- It is always important to take feedback on your predictions and then learn why you made mistakes. Analyze why you got it wrong and adopt a growth mindset.
-- Keep notes on why you made a certain prediction so that when you analyze, you can be sure of your thought process at the time.
+- It is always important to take feedback on your predictions and then learn why you made mistakes. Analyse why you got it wrong and adopt a growth mindset.
+- Keep notes on why you made a certain prediction so that when you analyse, you can be sure of your thought process at the time.

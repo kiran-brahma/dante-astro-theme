@@ -15,19 +15,19 @@ Brand Awareness = Ability to recall a product or services
 
 **Awareness —&gt; Evaluation —&gt; Trial —&gt; Awareness**
 
-![](/images/segment-analysis-re-kyMD.png)
+![Marketing Metrics](/images/segment-analysis-re-kyMD.png)
 
 ## Evaluation Marketing
 
 - Designed to drive customer purchase intent.
-- It enables customer to compare product and price.
+- It enables customers to compare products and price.
 - There is a time delay between evaluation and purchase.
-- It is hard to link it back with customer purchase
+- It is hard to link it back with the customer purchase
 - Metric is a good predictor of future sales
 
 ## Loyalty Marketing
 
-Churn = % of existing customers who stop purchasing your product or services. Often measures in a year timeline
+Churn = % of existing customers who stop purchasing your product or services. Often measured in a year timeline
 
 ## Customer Satisfaction
 
@@ -39,16 +39,16 @@ The golden metric that bridges loyalty and brand awareness
 
 Take Rate = % of Customers accepting a marketing offer.
 
-It is applicable to any activity that has a call to action
+It applies to any activity that has a call to action
 
 ## Demand Marketing
 
 - Profit = Revenue - Cost
 - NPV = Net present value
 - IRR = Internal Rate of Return
-- Payback = The time period for a marketing investment to pay back the cost of initiative
+- Payback = The period for a marketing investment to pay back the cost of the initiative
 
-Estimate the 4 metrics clearly prior and after undertaking an marketing activity
+Estimate the 4 metrics prior and after undertaking a marketing activity
 
 ## Essential Customer Value Metric
 
@@ -79,14 +79,14 @@ Measures Include:
 
 ## Score Card
 
-The goal of a score card needs to be
+The goal of a scorecard needs to be
 
 - It needs to be different for different customer segments
-- Key focus is to help executive level people take proper decisions
-- It needs a clear defined vision
+The key focus is to help executive-level people make proper decisions
+- It needs a clearly defined vision
 
 ## Key Insight
 
-It is of key importance to define success metric for a campaign. It need to define metric that enables everyone on its effeciveness
+It is of key importance to define success metrics for a campaign. It needs to define a metric that enables everyone on its effectiveness
 
 For a more detailed understanding refer to my [note on marketing strategy](/journal/note-on-marketing-strategy)

@@ -38,11 +38,11 @@ tags:
 - Have a small advisor group that can play devil's advocate when needed.
 - Capital should have a clear focus on risk and return.
 
-_Game changing is often game over._
+> Game-changing is often game over.
 
 - Going big to just meet sales targets rarely works.
-- Don't lose focus on the operational aspects of your business. Focusing on moonshot or big projects cannot be the main growth mantra. A lot of small things done properly can provide the same end result.
-- High focus on growth in EPS, as in older eras, worked due to certain conditions.
+- Don't lose focus on the operational aspects of your business. Focusing on moonshots or big projects cannot be the main growth mantra. A lot of small things done properly can provide the same result.
+- High focus on growth in EPS, as in older eras, work due to certain conditions, not prevalent currently
 
 ### Boeing
 
@@ -71,7 +71,7 @@ _Game changing is often game over._
 - As your business grows, complexity and bureaucracy become the norm, as seen in GE. Danaher focused on being lean, avoiding the same issues.
 - When things are bad, make difficult and unpopular decisions as soon as possible, instead of avoiding them until the last moment.
 - Focus on ensuring that costs and liabilities are properly controlled before shifting to growth mode.
-- Keep a tight leash on fixed costs. When people hire more people, leading to unproductivity, it can lead to issues, as seen in GE.
+- Keep a tight leash on fixed costs. When people hire more people, leading to low productivity, it can lead to issues, as seen in GE.
 - Pay people for what you expect them to do tomorrow, not just for today.
 - Local strategies yield better results than global ones.
 
@@ -102,15 +102,15 @@ _Game changing is often game over._
 - Incremental cash returns on capital are important. Cash flow is important and not accounting profit.
 - High margins and low working capital are a powerful combination.
 - Compounding works if you give it time in operations and finance.
-- Underinvestment in sales and marketing and overinvestment in product development and back office is a general trend, which is bad for business.
+- Underinvestment in sales and marketing and over investment in product development and back office is a general trend, which is bad for business.
 
 ### TransDigm
 
 - Even a good business can be better.
-- Focus on your unique advantage and maximize it.
+- Focus on your unique advantage and maximise it.
 - Simple goals create focused outcomes, while complex ones lead to confusion.
 - Employees should be made to think and compensated as owners.
-- Pricing is a key lever that can be used to drive higher value in a falling market. Lower competition provides scope for increasing prices without any need to invest, while focusing on keeping costs low.
+- Pricing is a key lever that can be used to drive higher value in a falling market. Lower competition provides scope for increasing prices without any need to invest while focusing on keeping costs low.
 - Bottom-up management is far more effective than top-down, like GE.
 
 ### Stanley Black & Decker
@@ -123,7 +123,7 @@ _Game changing is often game over._
 ## United Rentals
 
 - Continuous improvement is as important to service businesses as it is to manufacturing.
-- Developing an operational edge over others is very powerful in a hyper competitive industry.
+- Developing an operational edge over others is very powerful in a hyper-competitive industry.
 - Incentives need to evolve as per the needs of organisations.
 - Employee feedback creates a virtuous cycle, leading to a great source of ideas.
 - Offloading assets outside does not remove the asset from the equation, but doing so leads to less control. Assets are still needed for the business to operate. Uber may not own any cars, but not owning any leads to complex challenges, which in the end do not provide any cost advantages.
@@ -131,7 +131,7 @@ _Game changing is often game over._
 ## General Learnings
 
 - Growth Algorithm: Focus on investing in businesses that provide solid returns. This will lead to an increment in profits faster than GDP. Profits will slowly rise to be better than peers.
-- Long-term success is achieved if you focus on customer needs, treat suppliers as partners, employees as the biggest assets, and invest in communities.
+- Long-term success is achieved if you focus on customer needs, treat suppliers as partners, and employees as the biggest assets, and invest in communities.
 - Focus on what you can control in a culture: fostering a humble culture, continuous improvement, holding a tight leash on costs, focusing on service/product/manufacturing excellence, and disciplined capital allocation focus that moves cash to high-return assets.
 - Business benchmarking and systems keep you grounded in reality.
 - The sign of arrogance is the most common attribute of failure.

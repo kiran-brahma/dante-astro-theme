@@ -38,7 +38,7 @@ Take Titan, for instance. Initially a supplier for other watch manufacturers fro
 
 Another notable example is Intel, which transitioned from a memory manufacturer to a chip manufacturer, a transformation detailed in Andy Groove's book [Only The Paranoid Survive.](https://amzn.to/49VWChv)
 
-![](/images/in-QwNj.png)
+![Business Pillar](/images/in-QwNj.png)
 
 ## Identifying Your Strongest Pillar: The Foundation of Your Pivot
 
@@ -50,11 +50,11 @@ Now in the case of Titan when it made its Pivot in the 90's, you can see that it
 
 > _You can’t improve what you don’t measure_
 
-Just as we monitor our car's performance through its dashboard when we drive, our business needs to identify Key Performance Indicators (KPIs) for each of our pillar. Once these KPIs have been identified, they need to be measured and tracked. Ensure that these KPIs are regularly monitored as they help you identify potential misalignments – a clear indicator that a pivot might be necessary.
+Just as we monitor our car's performance through its dashboard when we drive, our business needs to identify Key Performance Indicators (KPIs) for each of our pillars. Once these KPIs have been identified, they need to be measured and tracked. Ensure that these KPIs are regularly monitored as they help you identify potential misalignments – a clear indicator that a pivot might be necessary.
 
-For instance, if the conversion rate from leads to sales for our product or service is low, it indicates the need for a pivot for our product or service. We can choose to do so by adding new features or simplifying functionality or changing our target customer or changing our business model
+For instance, if the conversion rate from leads to sales for our product or service is low, it indicates the need for a pivot for our product or service. We can choose to do so by adding new features, simplifying functionality, changing our target customer or changing our business model
 
-Remember, your KPIs should be directly linked to the four pillars of your business and easily measurable. If you find a disconnect or are unable to measure it, it's time to take a step back to work out your plan from the scratch.
+Remember, your KPIs should be directly linked to the four pillars of your business and easily measurable. If you find a disconnect or are unable to measure it, it's time to take a step back to work out your plan from scratch.
 
 ## When the Pillars Realign: The End of the Pivot (and the Beginning of Something New)
 
@@ -80,10 +80,13 @@ Unless required by prior customer commitments, your old model needs to be shut d
 
 ### The Exodus and the Evolution
 
-When a pivot is underway, it's natural for some team members to opt to leave due to concerns about the unknown or apprehensions regarding their new roles. Its fine as this provides you with an opportunity to identify passionate individuals who are excited about the new direction.
+When a pivot is underway, it's natural for some team members to opt to leave due to concerns about the unknown or apprehensions regarding their new roles. It's fine as this provides you with an opportunity to identify passionate individuals who are excited about the new direction.
 
 When undergoing a pivot, never hire anyone externally for the vacant role but focus on promoting existing employees as this fills vacancies faster, boosts morale, and rewards loyalty. External hiring is highly troublesome during a pivot, so leverage your internal talent pool first.
 
 ## Conclusion
 
-Remember Pivoting is not easy, but it can be the key to unlocking your business growth ensure survival in a competitive landscape. Countless success stories have been written successful pivots. Don't fear the Pivot but face it with the same enthusiasm that kickstarted your entrepreneurial journey.
+Remember Pivoting is not easy, but it can be the key to unlocking your business growth to ensure survival in a competitive landscape. Countless success stories have been written successful pivots. Don't fear the Pivot but face it with the same enthusiasm that kickstarted your entrepreneurial journey.
+
+## Reference
+This post has been written utilising the advise provided in this [blog post](https://foundersnetwork.com/blog/pivot-startup/)

@@ -27,7 +27,7 @@ In 2019, after my father's sudden passing, I took the helm of his five-year-old 
 
 Ideally, I'd have preferred complete information before contacting the customer. But waiting wasn't an option. I reached out with the details I had. While I couldn't answer every question, my prompt action demonstrated our commitment to resolving the issue.
 
-![](/images/group-chat-illustration-QwOD.png)
+![Act Fast](/images/group-chat-illustration-QwOD.png)
 
 ## Transparency: Building Trust
 

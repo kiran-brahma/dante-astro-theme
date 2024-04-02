@@ -45,11 +45,11 @@ You are exposed to different facets of a business early on, allowing you to gras
 
 Working for a startup offers an excellent opportunity to take the initiative and lead, as your responsibilities scale along with the startup. Startups offer a great opportunity for young people with a thirst for experience to advance their careers.
 
-Startup years are like dog years; there, one year is equivalent to seven elsewhere. The amount of learning I personally experienced within one year was way beyond what I could expect working in any large company within India. I worked in Jio for around a year and when I looked at my first 3 months at TaxiFoSure, I could clearly see my learnings were almost 5X more.
+Startup years are like dog years; there, one year is equivalent to seven elsewhere. The amount of learning I experienced within one year was way beyond what I could expect working in any large company in India. I worked in Jio for around a year and when I looked at my first 3 months at TaxiFoSure, I could see my learnings were almost 5X more.
 
 ### Working with Smart People
 
-Startups are filled with enthusiastic, motivated individuals who genuinely want to work there. Perhaps the nicest feeling you can have at work is waking up each morning eager to tackle a new challenge. You are challenged on an intellectual level, which was one of the biggest joys I personally felt during my time. The numerous debates and discussions help you in ways that it can only be experienced.
+Startups are filled with enthusiastic, motivated individuals who genuinely want to work there. Perhaps the nicest feeling you can have at work is waking up each morning eager to tackle a new challenge. You are challenged on an intellectual level, which was one of the biggest joys I felt during my time. The numerous debates and discussions help you in ways that it can only be experienced.
 
 Most startup founders are available for interaction regularly in both formal and informal settings, helping you gain a broader perspective. When working in Jio, it was a major event whenever Mukesh Ambani used to visit the office but in a Startup, chatting with the founder over a cup of coffee is pretty normal.
 

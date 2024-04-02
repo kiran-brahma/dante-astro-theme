@@ -5,6 +5,8 @@ dist/
 
 # dependencies
 node_modules/
+src/content/.obsidian
+src/content/template
 
 # logs
 npm-debug.log*
@@ -19,3 +21,4 @@ pnpm-debug.log*
 
 # macOS-specific files
 .DS_Store
+

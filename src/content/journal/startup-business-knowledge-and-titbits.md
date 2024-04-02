@@ -22,7 +22,7 @@ I usually keep making notes on any interesting idea or insights along with my ow
   - As a new firm, focus on reducing barriers to ensure faster adoption.
   - For big firms with a loyal customer base, it may be necessary to force some changes in customer behavior, as this can lead to increased loyalty and adoption. For example, Apple's removal of the headphone jack in iPhone and USB-C port for Laptops
 
-Refer to my blog post on [Validating Business Ideas](/posts/a-simple-guide-for-validating-new-business-ideas) for more indepth understanding
+Refer to my blog post on [Validating Business Ideas](/posts/a-simple-guide-for-validating-new-business-ideas) for more in depth understanding
 
 ## Understanding Competition
 
@@ -32,26 +32,26 @@ Refer to my blog post on [Validating Business Ideas](/posts/a-simple-guide-for-v
   - Focus on durability over growth. Ensure that you are there even 30 years later
 - Don't focus too much on competition as it risks developing your new products or services inspired by competition rather than customer needs
 - Don't focus too much on competition; it only leads to comparison. Instead, focus on customer delight, which yields better returns than trying to copy the leader. Copying is not as easy as it seems.
-  - Copying a market leader in order to achieve lower costs or higher performance rarely yields successful results
+  - Copying a market leader to achieve lower costs or higher performance rarely yields successful results
 - Focus on the end consumer and how you can improve their life. Focus on the problem statement and not on what your competitor is doing
 
 ## Productivity
 
-- Efficiency is minimising effort for a given impact. Leveraging is maximising impact for a given effort. Focus more on leverage than efficiency
+- Efficiency is minimising the effort for a given impact. Leveraging is maximising impact for a given effort. Focus more on leverage than efficiency
 - Doing the right thing is better than doing things right. Identify the metrics that you feel are important and scale accordingly
 - Always do things that don’t scale to learn and then look at how you can scale them
 
 ## Business Insights
 
-- The real direct measure of innovation is change in Human behaviour. Innovation is a sum of change across the whole system and not a thing which causes a change in how people behave
+- The real direct measure of innovation is change in Human behaviour. Innovation is a sum of change across the whole system and not a thing that causes a change in how people behave
 
-- Typically men are more likely to prefer market driven solutions to government interventions, more skeptical on environmental protection and less keen on resource redistribution
+- Typically men are more likely to prefer market-driven solutions to government interventions, more sceptical on environmental protection and less keen on resource redistribution
 
 ## Time Management
 
-- Don’t focus on managing time but identify on how productive you can be for any task. Take up on those tasks that you can manage and best most productive. Focus on your work load and negotiate or outsource as far as possible
+- Don’t focus on managing time but identify on how productive you can be for any task. Take up on those tasks that you can manage and best the most productive. Focus on your workload and negotiate or outsource as far as possible
 - There is no right system or approach. Keep trying new methods, focus on goals and take feedback
-- Understand your working style and adjust accordingly. Pushback on changes that need you to change and accommodate least possible changes
+- Understand your working style and adjust accordingly. Pushback on changes that need you to change and accommodate the least possible changes
 
 ## Product Market Fit
 
@@ -72,7 +72,7 @@ Refer to my blog post on [Validating Business Ideas](/posts/a-simple-guide-for-v
 
 You can refer to [note on product market fit](/journal/product-market-fit) for insights from other founders
 
-You can refer to my blog post on [Validating Business Ideas](/posts/a-simple-guide-for-validating-new-business-ideas) for more indepth understanding related to process
+You can refer to my blog post on [Validating Business Ideas](/posts/a-simple-guide-for-validating-new-business-ideas) for more in-depth understanding related to the process
 
 ## Market Leadership
 
@@ -84,14 +84,14 @@ You can refer to my blog post on [Validating Business Ideas](/posts/a-simple-gui
 
 - Focus only on one area that multiple areas
 
-- In the long run, this is how the market share get divider
+- In the long run, this is how the market share get divided
 
   - Market Leader - 40% Share
   - No 2 Player - 20% Share
   - No 3 Player - 10% Share
   - Rest of the Market - 30% Market
 
-- However, in case of network type markets, leaders can even end up with 90% share else most such markets are duopoly as is the case in most tech driven marketplaces across the world
+- However, in the case of network-type markets, leaders can even end up with a 90% share else most such markets are duopolies as is the case in most tech-driven marketplaces across the world
 
   ## Top Reasons for Startup Failure
 

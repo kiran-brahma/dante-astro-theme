@@ -17,13 +17,13 @@ tags:
 
 I always wondered what goes on inside the minds of Warren Buffet and Charley Mungley. Numerous books have been written but the real insights are from the annual letter to Berkshire Hathaway shareholders.
 
-Most annual letters are just dry financial reports, but Berkshire letters is a treasure trove of insights, where Buffet shares his ideas, and thought process, providing you an understanding of this business philosophy. Forget taking any masterclass in business, just take time to read his letters and you will learn way more than most can teach you.
+Most annual letters are just dry financial reports, but Berkshire Letters is a treasure trove of insights, where Buffet shares his ideas, and thought process, providing you with an understanding of this business philosophy. Forget taking any masterclass in business, just take time to read his letters and you will learn way more than most can teach you.
 
 ![Lessons From Warren Buffet Annual Shareholder Letters](https://i.imgur.com/UKZiLzy.png)
 
 In 2017, I spent close to a year, reading every [annual shareholder letter](https://amzn.to/43A9KGu) since 1965. His letters provided me with nuggets across all aspects related to running your business and investment. I took notes on my learnings across multiple letters into different categories.
 
-Everyone draws different conclusions reading the same material, so do read them as per your connivence
+Everyone draws different conclusions reading the same material, so do read them as per your convenience
 
 ## Investment Lessons
 
@@ -32,7 +32,7 @@ Everyone draws different conclusions reading the same material, so do read them 
     - Favourable economic scenario - more tailwinds than headwinds expected
     - Competent and honest management
     - Attractive purchase price compared to private ownership i.e. it should be cheaper than building the same business to scale
-    - Industry that is easy to understand and comprehend
+    - An industry that is easy to understand and comprehend
 
 2.  Preferably buy private firms with a high focus on profit.
 
@@ -48,19 +48,19 @@ Everyone draws different conclusions reading the same material, so do read them 
 
     ![Focus on Investments](https://i.imgur.com/BwyVLkl.png)
 
-8.  Focus on companies that pay dividends. High growth organizations should use it to buy more shares, low growth should retain the dividend to invest in high growth. Focus on whether the dividend is paid via new share issue or profits.
+8.  Focus on companies that pay dividends. High-growth organisations should use it to buy more shares, low growth should retain the dividend to invest in high growth. Focus on whether the dividend is paid via new share issue or profits.
 
-9.  Focus to invest in companies where every rupee retained results in similar growth in their market value.
+9.  Focus on investing in companies where every rupee retained results in a similar growth in their market value.
 
 10. If a business looks good and makes good economic profit, then invest in more shares when the prices are down due to market sentiments.
 
-11. Stock split leads to an increase in trading volume, hence leading to higher deviation from intrinsic value. This is one key reason why Buffet doesn't encourage stock split.
+11. Stock split leads to an increase in trading volume, hence leading to higher deviation from intrinsic value. This is one key reason why Buffet doesn't encourage stock splits.
 
 12. Multiple times, companies have just 1-2 businesses that deliver the returns way above market with others not giving subpar returns. However, on average they provide market returns or above, leading to high skewness that many don’t notice. This is commonly seen in acquisitions. In such cases, try to exit those with subpar and retain only those that make sense.
 
-13. Mostly companies improve their earnings by increase in capital. Rarely do companies generate capital that can be invested elsewhere.
+13. Mostly companies improve their earnings by increasing capital. Rarely do companies generate capital that can be invested elsewhere.
 
-14. Most companies increase their value via retaining earnings rather than investing in high rate business or something else with the capital retained.
+14. Most companies increase their value via retaining earnings rather than investing in high-rate business or something else with the capital retained.
 
 15. If a company's market value is worth less than its intrinsic value and on a share buyback, it's a good opportunity to invest.
 
@@ -105,7 +105,7 @@ Everyone draws different conclusions reading the same material, so do read them 
     - Don't expense for ESOPS or Options Pool
     - Pension assumptions are too good to be true
     - Use fancy accounting
-    - Have too high a focus on EBIDTA but say that the non-cash expense items have already been paid for
+    - Have too high a focus on EBITDA but say that the non-cash expense items have already been paid for
     - Have no clear footnotes, as it indicates they are hiding something
     - Sell high projections and growth numbers, as none can make accurate predictions and such companies will always make up the numbers for the same.
 
@@ -119,13 +119,13 @@ Everyone draws different conclusions reading the same material, so do read them 
 
 27. In the long run, a passive investor earns more due to lower transaction expenses.
 
-28. Operating income is a better understanding for a business than net income as they don’t include unrealized gains/losses from securities.
+28. Operating income is a better understanding for a business than net income as they don’t include unrealised gains/losses from securities.
 
-29. Share repurchase needs to be undertaken independently as any new investment. It is a good economical idea to buy when prices are low as existing are able to increase stake and retain more of their earnings.
+29. Share repurchase needs to be undertaken independently of any new investment. It is a good economical idea to buy when prices are low as existing can increase stake and retain more of their earnings.
 
-30. Evaluate risk-free investment if they are returning more than inflation as you have foregone the ability to consume now and lost purchasing power over time. Such investments should be only for liquidity concerns.
+30. Evaluate risk-free investments if they are returning more than inflation as you have foregone the ability to consume now and lost purchasing power over time. Such investments should be only for liquidity concerns.
 
-31. Certain assets produce no returns but are purchased with the hope that in the future, people will be willing to pay more to acquire it. Ex: gold. People rush to risk-free investments and no return assets due to fear. Focus on investing in productive assets such as businesses, farms, commercial real estate, etc.
+31. Certain assets produce no returns but are purchased with the hope that in the future, people will be willing to pay more to acquire them. Ex: gold. People rush to risk-free investments and no-return assets due to fear. Focus on investing in productive assets such as businesses, farms, commercial real estate, etc.
 
 32. Evaluate Interest Coverage as = PreTax Earnings / Interest over EBIDTA.
 
@@ -135,17 +135,17 @@ Everyone draws different conclusions reading the same material, so do read them 
 
 35. For stable returns, focus on what you know, take a simple approach, and avoid quick rich profit schemes.
 
-36. Invest on the basis of the future ability of the asset to generate returns. If you can't estimate it, then reject it.
+36. Invest based on the future ability of the asset to generate returns. If you can't estimate it, then reject it.
 
-37. Don't invest on the prospect of a price change to gather returns as they rarely generate the returns. Past performance of asset appreciation should never be the reason to invest.
+37. Don't invest in the prospect of a price change to gather returns as they rarely generate the returns. Past performance of asset appreciation should never be the reason to invest.
 
 38. Focus on what the asset is producing and not on daily returns. Players focus on the playing field and not on the scoreboard.
 
 39. When investing in an asset, understand what value your asset is creating and not based on the economic situation. If an asset is valuable, it will be used even in a recessionary period.
 
-40. Buy a stock on the assumption that you will be owning a small portion of the business. Analyze as you would for your business and try to estimate 5 years based on info available. If you can’t do then avoid. Index Funds are the best bet for most investors as experts work to identify the best stocks, and they are under high scrutiny in most cases.
+40. Buy a stock on the assumption that you will be owning a small portion of the business. Analyse as you would for your business and try to estimate 5 years based on the info available. If you can’t do then avoid it. Index Funds are the best bet for most investors as experts work to identify the best stocks, and they are under high scrutiny in most cases.
 
-41. A lot of large organizations purchase firms with low P/E ratio and then pool these shares with larger firms, indicating an increase in the value of the acquired firm.
+41. A lot of large organisations purchase firms with low P/E ratios and then pool these shares with larger firms, indicating an increase in the value of the acquired firm.
 
 42. A sound investment can morph into a rash speculation if it's purchased at an elevated price.
 

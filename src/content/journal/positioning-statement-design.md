@@ -16,12 +16,12 @@ tags:
 
 For \[Target Customers\], \[Product Name\] is a \[Product Category\] designed to meet the \[Statement of Need or Opportunity\]. It provides a \[Statement of Key Benefit\] that is not available with \[Competitive Alternatives\]. What sets \[Product Name\] apart is its \[Statement of Key Differentiator\].
 
-![](/images/selection-illustration-QyMD.png)
+![Positioning Statement](/images/selection-illustration-QyMD.png)
 
 ## **Key Questions to answer**
 
 - What sets your product/service apart?
-- What do you do what you do
+- What do you do what do you do
 - Define your broadest circle of prospective customers. Then, gradually refine your analysis as you go deeper.
 - What are the pain points of customers? What emotions are associated with them?
   - Customers often experience pain points in their interactions with businesses. These can include feeling frustrated, overwhelmed, or confused. Additionally, customers may feel powerless, ignored, or taken advantage of. Emotions associated with these pain points can range from anger and disappointment to sadness and fear. Recognising and addressing customer pain points is essential to providing a positive customer experience.
