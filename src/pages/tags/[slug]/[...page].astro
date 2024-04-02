@@ -3,13 +3,17 @@ import type { GetStaticPathsOptions, Page } from 'astro';
 import { type CollectionEntry, getCollection } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Pagination from '../../../components/Pagination.astro';
-import PostPreview from '../../../components/PostPreview.astro';
+import PostPreview from '../../../components/TagPreview.astro';
 import Subscribe from '../../../components/Subscribe.astro';
 import siteConfig from '../../../data/site-config';
 import { sortItemsByDateDesc, getAllTags, getPostsByTag } from '../../../utils/data-utils';
 
 export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
-    const posts = (await getCollection('blog')).sort(sortItemsByDateDesc);
+    const blog = (await getCollection('blog')).sort(sortItemsByDateDesc);
+    const books = (await getCollection('books')).sort(sortItemsByDateDesc);
+    const journal = (await getCollection('journal')).sort(sortItemsByDateDesc);
+    const posts = [...blog, ...books, ...journal];
+
     const tags = getAllTags(posts);
 
     return tags.flatMap((tag) => {
@@ -21,12 +25,17 @@ export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
     });
 }
 
-type Props = { page: Page<CollectionEntry<'blog'>> };
+type Props = {
+    page: Page<CollectionEntry<'blog'> | CollectionEntry<'books'> | CollectionEntry<'journal'>>;
+};
 
 const { page } = Astro.props;
 const blog = page.data;
 const params = Astro.params;
-const allPosts = await getCollection('blog');
+const allBlogPosts = await getCollection('blog');
+const allBooks = await getCollection('books');
+const allJournalEntries = await getCollection('journal');
+const allPosts = [...allBlogPosts, ...allBooks, ...allJournalEntries];
 const allTags = getAllTags(allPosts);
 const currentTag = allTags.find((tag) => {
     return tag.slug === params.slug;
@@ -35,8 +44,8 @@ const currentTag = allTags.find((tag) => {
 
 <BaseLayout
     title={`Posts Tagged ${currentTag?.name}`}
-    description={`Explore a curated collection of blog posts under ${currentTag?.name}`}
-    image={{ src: '/dante-preview.jpg', alt: 'The preview of the site' }}
+    description={`Explore a curated collection of my writings under ${currentTag?.name}`}
+    image={{ src: '/TagsP.png', alt: 'The preview of the Topic Section' }}
     showHeader={false}
 >
     <h1 class="mb-12 text-2xl leading-tight font-serif italic sm:mb-16 sm:text-4xl">Posts Tagged "{currentTag?.name}"</h1>

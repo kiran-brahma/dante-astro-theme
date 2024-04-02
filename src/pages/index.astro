@@ -4,41 +4,66 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import Button from '../components/Button.astro';
 import Hero from '../components/Hero.astro';
 import PostPreview from '../components/PostPreview.astro';
-import ProjectPreview from '../components/ProjectPreview.astro';
+import BookPreview from '../components/BookPreview.astro';
+import ProjectPreview from '../components/JournalPreview.astro';
 import siteConfig from '../data/site-config';
 import { sortItemsByDateDesc } from '../utils/data-utils';
 
 const posts = (await getCollection('blog')).sort(sortItemsByDateDesc);
 const featuredPosts = posts.filter(({ data }) => data.isFeatured);
 
-const projects = (await getCollection('projects')).sort(sortItemsByDateDesc);
+const books = (await getCollection('books')).sort(sortItemsByDateDesc);
+const featuredBooks = books.filter(({ data }) => data.isFeatured);
+
+const projects = (await getCollection('journal')).sort(sortItemsByDateDesc);
 const featuredProjects = projects.filter(({ data }) => data.isFeatured);
 ---
 
 <BaseLayout description={siteConfig.description} image={siteConfig.image}>
     <Hero />
     {
-        featuredProjects?.length > 0 && (
+        featuredPosts?.length > 0 && (
             <div class="mb-16 sm:mb-24">
-                <h2 class="mb-12 text-xl font-serif italic sm:mb-16 sm:text-2xl">Projects</h2>
-                {featuredProjects.map((project) => (
-                    <ProjectPreview project={project} class="mb-10 sm:mb-12" headingLevel="h3" />
-                ))}
+                <h2 class=" mb-12 text-xl font-serif italic sm:mb-16 sm:text-2xl">My Writings</h2>
+                <div class="grid grid-rows-2 grid-flow-col sm:grid-rows-1">
+                    {featuredPosts.map((post) => (
+                        <PostPreview post={post} class="mb-10 sm:mb-12" headingLevel="h3" />
+                    ))}
+                </div>
                 <div class="mt-12 sm:mt-16">
-                    <Button href="/projects">View All Projects</Button>
+                    <Button href="/blog">View All my Writings </Button>
                 </div>
             </div>
         )
     }
     {
-        featuredPosts?.length > 0 && (
+        featuredBooks?.length > 0 && (
             <div class="mb-16 sm:mb-24">
-                <h2 class="mb-12 text-xl font-serif italic sm:mb-16 sm:text-2xl">Writing</h2>
-                {featuredPosts.map((post) => (
-                    <PostPreview post={post} class="mb-10 sm:mb-12" headingLevel="h3" />
-                ))}
+                <h2 class="mb-12 text-xl font-serif italic sm:mb-16 sm:text-2xl">Lessons from Books</h2>
+                <div class="grid grid-rows-2 grid-flow-col sm:grid-rows-1">
+                    {featuredBooks.map((books) => (
+                        <BookPreview project={books} class="mb-10 sm:mb-12" headingLevel="h3" />
+                    ))}
+                </div>
                 <div class="mt-12 sm:mt-16">
-                    <Button href="/blog">View All Posts</Button>
+                    <Button href="/blog">View All Book Sumamries </Button>
+                </div>
+            </div>
+        )
+    }
+
+    {
+        featuredProjects?.length > 0 && (
+            <div class="mb-16 sm:mb-24">
+                <h2 class="mb-12 text-xl font-serif italic sm:mb-16 sm:text-2xl">Business Learnings</h2>
+                <div class="grid grid-flow-col auto-cols-max">
+                    {' '}
+                    {featuredProjects.map((project) => (
+                        <ProjectPreview project={project} class="mb-10 sm:mb-12" headingLevel="h3" />
+                    ))}
+                </div>
+                <div class="mt-12 sm:mt-16">
+                    <Button href="/journal">View All Business Lessons</Button>
                 </div>
             </div>
         )
