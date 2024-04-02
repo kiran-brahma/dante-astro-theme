@@ -24,14 +24,16 @@ const featuredProjects = projects.filter(({ data }) => data.isFeatured);
     {
         featuredPosts?.length > 0 && (
             <div class="mb-16 sm:mb-24">
-                <h2 class=" mb-12 text-xl font-serif italic sm:mb-16 sm:text-2xl">My Writings</h2>
-                <div class="grid grid-rows-2 grid-flow-col sm:grid-rows-1">
+                <h2 class=" mb-12 text-2xl font-serif font-bold italic sm:mb-10 sm:text-2xl">My Writings</h2>
+                <div class="grid grid-rows-2 grid-flow-col gap-4  ">
                     {featuredPosts.map((post) => (
                         <PostPreview post={post} class="mb-10 sm:mb-12" headingLevel="h3" />
                     ))}
                 </div>
                 <div class="mt-12 sm:mt-16">
-                    <Button href="/blog">View All my Writings </Button>
+                    <Button class="font-semibold" href="/blog">
+                        View All my Writings{' '}
+                    </Button>
                 </div>
             </div>
         )
@@ -39,14 +41,16 @@ const featuredProjects = projects.filter(({ data }) => data.isFeatured);
     {
         featuredBooks?.length > 0 && (
             <div class="mb-16 sm:mb-24">
-                <h2 class="mb-12 text-xl font-serif italic sm:mb-16 sm:text-2xl">Lessons from Books</h2>
-                <div class="grid grid-rows-2 grid-flow-col sm:grid-rows-1">
+                <h2 class="mb-12 text-2xl font-bold font-serif italic sm:mb-10 sm:text-2xl">Lessons from Books</h2>
+                <div class="grid grid-rows-2 grid-flow-col gap-4  ">
                     {featuredBooks.map((books) => (
                         <BookPreview project={books} class="mb-10 sm:mb-12" headingLevel="h3" />
                     ))}
                 </div>
                 <div class="mt-12 sm:mt-16">
-                    <Button href="/blog">View All Book Sumamries </Button>
+                    <Button class="font-semibold" href="/blog">
+                        View All Book Sumamries{' '}
+                    </Button>
                 </div>
             </div>
         )
@@ -55,15 +59,17 @@ const featuredProjects = projects.filter(({ data }) => data.isFeatured);
     {
         featuredProjects?.length > 0 && (
             <div class="mb-16 sm:mb-24">
-                <h2 class="mb-12 text-xl font-serif italic sm:mb-16 sm:text-2xl">Business Learnings</h2>
-                <div class="grid grid-flow-col auto-cols-max">
+                <h2 class="mb-12 text-2xl font-bold font-serif italic sm:mb-10 sm:text-2xl">Business Learnings</h2>
+                <div class="grid grid-rows-2 grid-flow-col gap-4  ">
                     {' '}
                     {featuredProjects.map((project) => (
                         <ProjectPreview project={project} class="mb-10 sm:mb-12" headingLevel="h3" />
                     ))}
                 </div>
                 <div class="mt-12 sm:mt-16">
-                    <Button href="/journal">View All Business Lessons</Button>
+                    <Button class="font-semibold" href="/journal">
+                        View All Business Lessons
+                    </Button>
                 </div>
             </div>
         )
