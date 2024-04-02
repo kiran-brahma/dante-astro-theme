@@ -118,7 +118,7 @@ const siteConfig: SiteConfig = {
     subscribe: {
         title: 'Subscribe to my Newsletter',
         text: 'One update per week. All the latest posts directly in your inbox.',
-        formUrl: '#'
+        formUrl: 'https://script.google.com/macros/s/AKfycbzD6_AMOVORDwte0rfaoaI0N5ZZNQl-whKTXHlDXFUhD7xo24zyffQg0Qo-7Ef9mCLg/exec'
     },
     postsPerPage: 8,
     projectsPerPage: 8

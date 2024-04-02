@@ -18,21 +18,33 @@ const { class: className } = Astro.props;
             {subscribe.text && <p class="w-full max-w-xl mb-8 text-sm leading-normal">{subscribe.text}</p>}
             <form
                 action={subscribe.formUrl}
-                method="post"
+                method="POST"
                 id="subscribe-form"
                 name="subscribe-form"
                 class="w-full max-w-xl flex flex-col gap-3.5 sm:flex-row"
                 target="_blank"
             >
                 <label for="email" class="sr-only">
+                    Name
+                </label>
+                <input
+                    type="text"
+                    name="Name"
+                    id="email"
+                    class="w-full h-9 px-5 py-2 text-sm text-main bg-transparent border border-main rounded-full placeholder:text-main/60 focus:outline-none"
+                    required
+                    value=""
+                    placeholder="Your Name"
+                />
+                <label for="email" class="sr-only">
                     Email Address
                 </label>
                 <input
                     type="email"
-                    name="email"
+                    name="Email"
                     id="email"
                     class="w-full h-9 px-5 py-2 text-sm text-main bg-transparent border border-main rounded-full placeholder:text-main/60 focus:outline-none"
-                    required=""
+                    required
                     value=""
                     placeholder="Your email"
                 />
