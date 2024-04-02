@@ -10,9 +10,6 @@ tags:
 publishDate: '2024-03-16'
 ---
 
-Let's face it: even the best plans can't account for every unexpected crisis. I've personally encountered several, and transparency proved to be my lifeboat while navigating them.
-
-In 2019, after my father's sudden passing, I took the helm of his five-year-old business. Still learning the ropes, I was hit with a customer termination notice due to poor service. This potential 10% business loss was a wake-up call. I needed a communication strategy to save the day.
 
 ## Key takeaways
 
@@ -22,6 +19,11 @@ In 2019, after my father's sudden passing, I took the helm of his five-year-old 
 4.  **Keep it human:** Personalize responses, avoid generic templates, and demonstrate genuine investment in resolving issues.
 5.  **Stick to facts:** Avoid spreading unconfirmed information; maintain honesty and clarity in communication.
 6.  **Proactive planning:** Create protocols and contingency plans to prevent future crises, equipping the team for effective problem resolution.
+Let's face it: even the best plans can't account for every unexpected crisis. I've personally encountered several, and transparency proved to be my lifeboat while navigating them.
+
+## Introduction
+In 2019, after my father's sudden passing, I took the helm of his five-year-old business. Still learning the ropes, I was hit with a customer termination notice due to poor service. This potential 10% business loss was a wake-up call. I needed a communication strategy to save the day.
+
 
 ## **Acting Fast, Even Without All the Answers**
 

@@ -11,21 +11,21 @@ title: 'Working in a Startup (The Good & Bad)'
 publishDate: '2024-03-14'
 ---
 
-## Context
-
-In the past few years, startups have grown exponentially, introducing us all to new innovations and ideas. Startups hire people from different backgrounds, especially young people. Even seasoned professionals choose to work in startups, especially in consulting. In the past few years, Startups have been the biggest employers for students across all premium engineering and MBA colleges. When personally hiring across such colleges, I could sense a keen interest from all students to work in a Startup as they provide with most people the right platform to learn multiple things in a short period which is very hard to come by in typical organisations
-
-To anyone interested in exploring opportunities, let me elucidate what one gains while working in a Startup. These are based on my personal experiences while working in the Taxi Mobility space along with numerous conversations I was lucky to be part of people working across a wide spectrum of Startups in India
-
-> ## Key Takeaways
+## Key Takeaways
 
 - High responsibility and steep learning curve
 - Exposure to all facets of Business and fast career growth
 - Work with Some amazing people
 - Chaotic Work Environment and poor work-life balance
-- Stressful atmosphere due to high pace of change
+- Stressful atmosphere due to the high pace of change
 - Consider a 2-3 year stint to gain valuable experience, accelerating your career and learning
 - Do talk to someone internally before joining
+
+## Context
+
+In the past few years, startups have grown exponentially, introducing us all to new innovations and ideas. Startups hire people from different backgrounds, especially young people. Even seasoned professionals choose to work in startups, especially in consulting. In the past few years, Startups have been the biggest employers for students across all premium engineering and MBA colleges. When personally hiring across such colleges, I could sense a keen interest from all students to work in a Startup as they provide with most people the right platform to learn multiple things in a short period which is very hard to come by in typical organisations
+
+To anyone interested in exploring opportunities, let me elucidate what one gains while working in a Startup. These are based on my personal experiences while working in the Taxi Mobility space along with numerous conversations I was lucky to be part of people working across a wide spectrum of Startups in India
 
 ![Work in a Startup](https://i.imgur.com/Qx62wgh.png)
 
