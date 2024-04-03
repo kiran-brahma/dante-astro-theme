@@ -13,7 +13,7 @@ const hero = siteConfig.hero;
             {hero.title && <h1 class="text-3xl leading-tight font-serif font-medium sm:text-5xl sm:leading-tight">{hero.title}</h1>}
             {hero.image?.src && (
                 <figure>
-                    <img fetchpriority="auto" src={hero.image.src} alt={hero.image.alt || ''} />
+                    <img width="640" height="427" fetchpriority="auto" src={hero.image.src} alt={hero.image.alt || ''} />
 
                     {hero.image.caption && <figcaption class="mt-1.5 text-xs sm:text-sm">{hero.image.caption}</figcaption>}
                 </figure>

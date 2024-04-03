@@ -105,7 +105,7 @@ const siteConfig: SiteConfig = {
         title: 'Hey there! I am Kiran Brahma 👋',
         text: "<b>Feeling lost in all that starup and funding talk?</b> Business blogs are full of it, but what about us, the small business owners already in the game?. <p>Join me as I share my journey and the tools I use to keep my small business thriving.</p>",
         image: {
-            src: '/images/profile-pic.webp',
+            src: '/images/profile-pic.jpg',
             alt: 'Kiran Brahma'
         },
         actions: [
