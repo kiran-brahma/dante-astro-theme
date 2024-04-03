@@ -13,9 +13,6 @@ isFeatured: true
 publishDate: '2024-03-19'
 ---
 
-import { Picture } from 'astro:assets';
-
-
 ## Key Takeaways
 
 - Concentrate efforts on addressing the most critical issues faced by customers
@@ -26,10 +23,10 @@ import { Picture } from 'astro:assets';
 - Engage with customers who show genuine interest and align with budget constraints, focusing efforts on those most likely to commit.
 
 ## Introduction
+
 Every other day a new idea keeps popping into my head on how I can launch a new service within the context of my [business.](https://knighthood.co) Now when you are flush with new ideas, the challenge is not generating enough ideas but is the idea good for solving a Tier 1 Problem or not. Over the years, I have realised that most new ideas launched failed due to it not being a Tier 1 Problem.
 
 Considering that we all have limited time and resources at hand, we must focus only on solving a Tier 1 problem. In this blog post, I am articulating the process I have developed after feedback from multiple friends, books, articles and personal experience
-
 
 ## Defining the Problem
 
@@ -39,7 +36,7 @@ A key lesson that I learnt over the years is that most of us tend to get excited
 
 Hence, even before you start working on any idea, start by stating the problem statement you want to solve. Your focus needs to be only on the problem you are aiming to solve. Ensure that you can articulate the problem within one sentence. Once your problem has been identified, only then proceed to the next step.
 
-<Picture class="mx-auto" src="https://i.imgur.com/BYZQdCS.png" width="450" height="300" formats={['avif', 'webp']} alt="Problem Definition" />
+![Problem Definition](https://i.imgur.com/BYZQdCS.png)
 
 ## Is it a Tier 1 Problem
 

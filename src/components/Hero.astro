@@ -14,7 +14,7 @@ const hero = siteConfig.hero;
             {hero.image?.src && (
                 <figure>
                     <center>
-                        <Image width="600" height="400" src={hero.image.src} decoding="async" alt={hero.image.alt || ''} />
+                        <img src={hero.image.src} alt={hero.image.alt || ''} />
                     </center>
                     {hero.image.caption && <figcaption class="mt-1.5 text-xs sm:text-sm">{hero.image.caption}</figcaption>}
                 </figure>
