@@ -26,6 +26,7 @@ const dateOptions: object = {
 const { project, prevProject, nextProject } = Astro.props;
 const { title, description, seo, publishDate } = project.data;
 const { Content } = await project.render();
+export const prerender = true;
 ---
 
 <BaseLayout title={seo?.title ?? title} description={seo?.description ?? description} image={seo?.image} pageType="article" showHeader={false}>

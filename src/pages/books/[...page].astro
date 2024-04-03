@@ -16,6 +16,7 @@ type Props = { page: Page<CollectionEntry<'books'>> };
 
 const { page } = Astro.props;
 const portfolio = page.data;
+export const prerender = true;
 ---
 
 <BaseLayout

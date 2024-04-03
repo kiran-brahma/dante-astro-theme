@@ -17,6 +17,7 @@ const featuredBooks = books.filter(({ data }) => data.isFeatured);
 
 const projects = (await getCollection('journal')).sort(sortItemsByDateDesc);
 const featuredProjects = projects.filter(({ data }) => data.isFeatured);
+export const prerender = true;
 ---
 
 <BaseLayout description={siteConfig.description} image={siteConfig.image}>

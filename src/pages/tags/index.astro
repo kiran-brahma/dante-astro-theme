@@ -21,6 +21,7 @@ const tags = getAllTags(allPosts).sort((tagA, tagB) => {
     const postCountTagB = getPostsByTag(allPosts, tagB.slug).length;
     return postCountTagB - postCountTagA;
 });
+export const prerender = true;
 ---
 
 <BaseLayout

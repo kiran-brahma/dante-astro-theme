@@ -40,6 +40,7 @@ const allTags = getAllTags(allPosts);
 const currentTag = allTags.find((tag) => {
     return tag.slug === params.slug;
 });
+export const prerender = true;
 ---
 
 <BaseLayout
