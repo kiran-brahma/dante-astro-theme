@@ -1,0 +1,59 @@
+---
+import { useState, useEffect } from 'astro/runtime';
+
+export default function AlbumImages({ albumId }) {
+  const [images, setImages] = useState([]);
+  const [isLoading, setIsLoading] = useState(true);
+  const [error, setError] = useState(null);
+
+  useEffect(() => {
+    const fetchImages = async () => {
+      try {
+        const response = await fetch(
+          `https://api.imgur.com/3/album/${albumId}/images`,
+          {
+            headers: {
+              Authorization: `Client-ID YOUR_CLIENT_ID`, // Replace with your client ID
+            },
+          }
+        );
+
+        if (!response.ok) {
+          throw new Error(`Error fetching images: ${response.statusText}`);
+        }
+
+        const data = await response.json();
+        setImages(data.data);
+      } catch (err) {
+        setError(err.message);
+      } finally {
+        setIsLoading(false);
+      }
+    };
+
+    fetchImages();
+  }, [albumId]);
+---
+
+  return (
+    <div class="image-grid">
+      {isLoading && <p>Loading images...</p>}
+      {error && <p>Error: {error}</p>}
+      {images.length > 0 && (
+        <ul class="image-list">
+          {images.map((image) => (
+            <li key={image.id}>
+              <a href={image.link}>
+                <img
+                  src={image.link}
+                  alt={image.title || 'Image'}
+                  style={{ width: '100%', objectFit: 'cover' }}
+                />
+              </a>
+            </li>
+          ))}
+        </ul>
+      )}
+    </div>
+  );
+}

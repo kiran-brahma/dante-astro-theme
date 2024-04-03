@@ -1,14 +1,14 @@
 ---
-title: 'Book Notes - Zero To One'
-
-description: 'Book Notes on Zero to One, a book recommended for reading for every entrepreneur'
+title: Book Notes - Zero To One
+description: Book Notes on Zero to One, a book recommended for reading for every entrepreneur
 seo:
   image:
-    src: '/images/zero-to-one-book-cover-UzOD.jpg'
-publishDate: '2023-08-31'
+    src: /images/zero-to-one-book-cover-UzOD.jpg
+publishDate: 2023-08-31
 isFeatured: true
 tags:
   - Startup
+  - Recommended-Reading
 ---
 
 ## About the Book

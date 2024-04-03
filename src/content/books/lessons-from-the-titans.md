@@ -1,15 +1,16 @@
 ---
-title: 'Lessons from the Titans - What Companies in the New Economy Can Learn from the Great Industrial Giants to Drive Sustainable Success'
-
-description: 'Book Notes from Lessons from Titans." Key takeaways and insights to drive growth and avoid failure'
+title: Lessons from the Titans - What Companies in the New Economy Can Learn from the Great Industrial Giants to Drive Sustainable Success
+description: Book Notes from Lessons from Titans." Key takeaways and insights to drive growth and avoid failure
 seo:
   image:
-    src: '/images/lessons-from-the-titans-U1OD.jpg'
-publishDate: '2024-01-16'
+    src: /images/lessons-from-the-titans-U1OD.jpg
+publishDate: 2024-01-16
 tags:
   - Lessons
   - Startup
-  - Business Insights
+  - Business
+  - Insights
+  - Recommended-Reading
 ---
 
 ## About the Books

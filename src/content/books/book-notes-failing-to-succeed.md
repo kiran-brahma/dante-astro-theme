@@ -1,13 +1,14 @@
 ---
-title: 'Book Notes - Failing To Succeed'
-description: "Lessons from the failure of India's first ecommerce platform"
+title: Book Notes - Failing To Succeed
+description: Lessons from the failure of India's first ecommerce platform
 seo:
   image:
-    src: '/images/61cubwlbosl-cyOT.jpg'
-publishDate: '2024-01-16'
+    src: /images/61cubwlbosl-cyOT.jpg
+publishDate: 2024-01-16
 tags:
   - Startup
   - Failure
+  - Recommended-Reading
 ---
 
 ## About the Book
