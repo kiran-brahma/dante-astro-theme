@@ -4,7 +4,7 @@ import BaseHead, { type Props as HeadProps } from '../components/BaseHead.astro'
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import Nav from '../components/Nav.astro';
-
+import SpeedInsights from '@vercel/speed-insights/astro';
 export type Props = HeadProps & { showHeader?: boolean };
 
 const { showHeader = true, ...head } = Astro.props;
@@ -28,6 +28,7 @@ export const prerender = true;
             {showHeader && <Header />}
             <main class="grow w-full max-w-3xl mx-auto">
                 <slot />
+                <SpeedInsights />
             </main>
             <Footer />
         </div>
