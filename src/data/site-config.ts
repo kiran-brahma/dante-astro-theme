@@ -68,6 +68,10 @@ const siteConfig: SiteConfig = {
             href: '/tags'
         },
         {
+            text: 'Photos',
+            href: 'https://photos.kiranbrahma.com'
+        },
+        {
             text: 'Contact',
             href: '/contact'
         }
@@ -105,7 +109,7 @@ const siteConfig: SiteConfig = {
         title: 'Hey there! I am Kiran Brahma 👋',
         text: "<b>Feeling lost in all that starup and funding talk?</b> Business blogs are full of it, but what about us, the small business owners already in the game?. <p>Join me as I share my journey and the tools I use to keep my small business thriving.</p>",
         image: {
-            src: 'https://res.cloudinary.com/dzmnxs9lz/image/upload/v1712069838/blog/Profile_1200x800_aj58l2.webp',
+            src: 'https://res.cloudinary.com/dzmnxs9lz/image/upload/v1712225655/blog/Profile_1200x800_aj58l2.webp',
             alt: 'Kiran Brahma'
         },
         actions: [
